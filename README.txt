@@ -8,7 +8,7 @@ This project is a web application that fetches the transcript of a YouTube video
 - Summarizes the transcript using the Hugging Face `t5-small` model.
 - Simple and user-friendly interface.
 
-![Screenshot](draw.png)
+![Alt text](draw.png)
 
 ## Installation
 
