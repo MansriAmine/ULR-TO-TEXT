@@ -8,7 +8,7 @@ This project is a web application that fetches the transcript of a YouTube video
 - Summarizes the transcript using the Hugging Face `t5-small` model.
 - Simple and user-friendly interface.
 
-![Alt text](images\draw.png)
+![Alt text](images/draw.png)
 
 ## Installation
 
@@ -33,11 +33,11 @@ This project is a web application that fetches the transcript of a YouTube video
 2. Open your web browser and go to `http://127.0.0.1:5000/`.
 
 3. Enter the URL of the YouTube video you want to fetch the transcript for and click "Get Transcript".
-![Alt text](images\html_YoutubeTranscriptAPI.png)
+![Alt text](images/html_YoutubeTranscriptAPI.png)
 this is the fetched transcript
-![Alt text](images\result.png)
+![Alt text](images/result.png)
 this is the summarized transcript
-![Alt text](images\summary.png)
+![Alt text](images/summary.png)
 
 ## Project Structure
 
