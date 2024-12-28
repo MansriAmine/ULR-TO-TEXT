@@ -47,3 +47,19 @@ This project is a web application that fetches the transcript of a YouTube video
 - Flask
 - youtube_transcript_api
 - transformers
+
+app.py: The main Flask application file.
+templates: Directory containing HTML templates.
+index.html: The main page where users can enter the YouTube video URL.
+result.html: The page that displays the fetched transcript and summary.
+static: Directory containing CSS files.
+index.css: Styles for the main page.
+result.css: Styles for the result page.
+
+- app.py: The main Flask application file.
+- templates: Directory containing HTML templates.
+  - index.html: The main page where users can enter the YouTube video URL.
+  - result.html: The page that displays the fetched transcript and summary.
+- static: Directory containing CSS files.
+  - index.css: Styles for the main page.
+  - result.css: Styles for the result page.
