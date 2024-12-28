@@ -30,6 +30,17 @@ h1 {
     overflow-y: scroll;
 }
 
+.Summary {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    max-height: 400px;
+    overflow-y: scroll;
+}
+
 .button {
     display: block;
     margin: 20px auto;
